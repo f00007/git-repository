@@ -23,7 +23,6 @@ namespace zmeika
 
             Draw(x2, y2, sym2);
 
-            Console.ReadLine();
 
 
         }
